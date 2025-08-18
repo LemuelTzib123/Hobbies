@@ -1,0 +1,30 @@
+h1 {color: red;}
+
+
+body {
+  background-color: lightblue;
+}
+
+
+.bordered-image {
+    border: 5px solid blue; 
+}
+
+
+
+table {color:black;
+width: 50%;
+text-align: center;
+border: 2px solid black}
+
+nav {padding: 10px; 
+width: 98%;
+display: flex;
+justify-content: space-around;
+font-size: x-large}
+
+
+.flex_container{
+  display: flex;
+  justify-content: space-around
+}
