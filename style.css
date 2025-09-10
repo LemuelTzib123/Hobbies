@@ -1,7 +1,7 @@
-h1 {color: red;}
+.h1 {color: red;}
 
 
-body {
+.body {
   background-color: lightblue;
 }
 
@@ -12,12 +12,12 @@ body {
 
 
 
-table {color:black;
+.table {color:black;
 width: 50%;
 text-align: center;
 border: 2px solid black}
 
-nav {padding: 10px; 
+.nav {padding: 10px; 
 width: 98%;
 display: flex;
 justify-content: space-around;
